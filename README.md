@@ -1,4 +1,7 @@
-### Hi 👋 , I'm Geeta Thakur
+
+
+<h1 align="center">Hi 👋, I'm Geeta Thakur :woman_technologist: </h1>
+
 
 
 - 🔭 I’m currently working on Selenium Java, Cucumber BDD Framework, Rest Assured, API
