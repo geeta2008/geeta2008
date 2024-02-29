@@ -20,6 +20,11 @@
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/> </a>
   <h3 align="left">:mortar_board:Certifications :</h3>
   <img src="https://github.com/geeta2008/geeta2008/assets/102253992/5b8d1466-092d-4356-b505-dc756085940b" width="80" height="80"/>
+  <h3 align="left">:writing_hand: Blog Posts :</h3>
+
+[API Key](https://medium.com/@geeta.thakur2008/api-key-b33ebfe1dc49)
+
+
  
 
   
