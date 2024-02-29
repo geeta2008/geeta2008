@@ -24,6 +24,8 @@
 
 [API Key](https://medium.com/@geeta.thakur2008/api-key-b33ebfe1dc49)
 
+[Automation Jira with API](https://medium.com/@geeta.thakur2008/automation-jira-with-api-65c726fb613)
+
 
  
 
